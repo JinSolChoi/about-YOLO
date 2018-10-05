@@ -9,3 +9,4 @@ YOLO(You Only Look Once)
 1) https://sites.google.com/site/bimprinciple/in-the-news/dibleoning-euliyonghangaegchegeomchulr-cnnyolossd
 2) http://openresearch.ai/t/yolo9000-better-faster-stronger/21
 3) http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=220993971883&parentCategoryNo=6&categoryNo=&viewDate=&isShowPopularPosts=true&from=search
+4) http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221011203855&parentCategoryNo=15&categoryNo=&viewDate=&isShowPopularPosts=true&from=search
