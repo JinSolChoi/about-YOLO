@@ -6,3 +6,4 @@ YOLO(You Only Look Once)
 
 - Korean
 1) https://sites.google.com/site/bimprinciple/in-the-news/dibleoning-euliyonghangaegchegeomchulr-cnnyolossd
+2) http://openresearch.ai/t/yolo9000-better-faster-stronger/21
