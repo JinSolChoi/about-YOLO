@@ -12,3 +12,4 @@ YOLO(You Only Look Once)
 3) http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=220993971883&parentCategoryNo=6&categoryNo=&viewDate=&isShowPopularPosts=true&from=search
 4) http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221011203855&parentCategoryNo=15&categoryNo=&viewDate=&isShowPopularPosts=true&from=search
 5) https://curt-park.github.io/2017-03-26/yolo/
+6) http://dhhwang89.tistory.com/138
